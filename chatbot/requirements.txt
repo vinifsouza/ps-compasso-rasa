@@ -129,7 +129,7 @@ tensorflow-text==2.3.0
 termcolor==1.1.0
 terminaltables==3.1.0
 threadpoolctl==2.2.0
-tqdm==4.62.2
+tqdm==4.66.3
 twilio==6.50.1
 typeguard==2.12.1
 typing-extensions==3.10.0.0
