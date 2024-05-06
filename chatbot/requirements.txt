@@ -1,7 +1,7 @@
 absl-py==0.13.0
 aio-pika==6.8.0
 aiofiles==0.7.0
-aiohttp==3.8.5
+aiohttp==3.9.4
 aiormq==3.3.1
 APScheduler==3.7.0
 astunparse==1.6.3
@@ -20,7 +20,7 @@ cloudpickle==1.6.0
 colorclass==2.2.0
 coloredlogs==15.0.1
 colorhash==1.0.3
-cryptography==41.0.3
+cryptography==42.0.6
 cycler==0.10.0
 decorator==4.4.2
 dm-tree==0.1.6
