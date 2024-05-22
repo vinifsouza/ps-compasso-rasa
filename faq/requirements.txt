@@ -21,7 +21,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.20
 PyDispatcher==2.0.5
-PyMySQL==1.0.2
+PyMySQL==1.1.1
 pyOpenSSL==20.0.1
 queuelib==1.6.2
 Scrapy==2.6.2
@@ -31,3 +31,4 @@ Twisted==22.10.0
 typing-extensions==3.10.0.0
 w3lib==1.22.0
 zope.interface==5.4.0
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
