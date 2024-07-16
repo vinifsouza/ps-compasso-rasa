@@ -31,3 +31,4 @@ Twisted==22.10.0
 typing-extensions==3.10.0.0
 w3lib==1.22.0
 zope.interface==5.4.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
