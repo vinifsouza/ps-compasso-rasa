@@ -143,3 +143,4 @@ websockets==8.1
 Werkzeug==2.2.3
 wrapt==1.12.1
 yarl==1.6.3
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
