@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.11.9
 
 COPY /chatbot/requirements.txt requirements.txt
 RUN pip install -r requirements.txt
